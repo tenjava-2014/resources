@@ -1,4 +1,4 @@
-resources
+Resources
 =========
 
-Tutorials and other documentation. See the ![wiki](https://github.com/tenjava/resources/wiki)
+Tutorials and other documentation. See the [wiki](https://github.com/tenjava/resources/wiki)!
